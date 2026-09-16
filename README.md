@@ -48,7 +48,7 @@ The schema was designed in two iterative stages (ERD Stage 1 → ERD Stage 2 →
 
 ## 🏗 Database Schema Summary
 
-The schema lives in the `DB_Project` PostgreSQL schema and contains **22 tables**:
+The schema lives in the `DB_Project` PostgreSQL schema and contains **25 tables**:
 
 | Table | Description |
 |---|---|
